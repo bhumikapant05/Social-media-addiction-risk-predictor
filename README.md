@@ -42,7 +42,7 @@ This model analyzes 8 key behavioral features to classify users into addiction r
 
 ## Dataset
 
-- **Source**: Smartphone Usage and Addiction Analysis Dataset
+- **Source**: https://www.kaggle.com/datasets/algozee/smartphone-usage-and-addiction-analysis-dataset
 - **Size**: 7,500 rows
 - **Features**: 8 behavioral metrics
 
