@@ -46,18 +46,15 @@ This model analyzes 8 key behavioral features to classify users into addiction r
 - **Size**: 7,500 rows
 - **Features**: 8 behavioral metrics
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repository
 2. Install dependencies: `pip install pandas numpy scikit-learn matplotlib seaborn shap`
 3. Run the notebook/script
 4. Input your usage patterns when prompted
 
-## 👤 Author
+## Author
 
-[Your Name]  
-[Your University/Course - Optional]
+Bhumika Pant
 
-## 📄 License
 
-This project is for educational purposes.
