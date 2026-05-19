@@ -32,12 +32,6 @@ This model analyzes 8 key behavioral features to classify users into addiction r
 - **SVM Accuracy**: 94%
 - **Logistic Regression Accuracy**: 93%
 
-
-### Confusion Matrix
-![Confusion Matrix](Logistic Regression.png)
-![Confusion Matrix](SVM.png)
-![Confusion Matrix](Random forest.png)
-
 ## Technologies Used
 
 - Python 3
